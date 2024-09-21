@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+body{
+    background-color: rgb(107, 107, 134);
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    background-color: rgb(29, 100, 120);
+    padding: 20px;
+    border-radius: 5px;
+    width: 50%;
+    max-width:600px
+}
+
