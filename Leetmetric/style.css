@@ -77,4 +77,12 @@ h1{
     z-index: 2;
 }
 
+.progress{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
 
